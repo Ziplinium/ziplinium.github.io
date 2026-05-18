@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&family=Lexend:wght@100..900&display=swap');
+
+/* DO NOT TOUCH THE "@import url" THING UNLESS YOU ARE ADDING/CHANGING FONT(S). THE FONT(S) WILL BREAK. */
+            
+h1, h2, h3, h4, h5, p, a {
+    font-family: Lexend;
+    color: #FFFFFF;
+   }
+
+hr {
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+    height: 5px;
+   }
